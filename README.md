@@ -1,0 +1,1 @@
+We implemented two components, StudySpaceList, and StudySpace. StudySpaceList handles 
